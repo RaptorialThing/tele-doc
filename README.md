@@ -2,7 +2,7 @@
 
 fork from PHP Telegram Bot  https://github.com/php-telegram-bot/example-bot/blob/master/README.md
 
-[Example](#link)
+[Example](#PHP Telegram Bot Example)
 
 sdddddd
 sd
@@ -12,8 +12,6 @@ sdff
 
 fsdf
 
-
-(#link)
 
 # PHP Telegram Bot Example
 An A-Z example of Telegram bot using the [PHP Telegram Bot][1] library.
