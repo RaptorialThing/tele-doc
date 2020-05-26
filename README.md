@@ -4,13 +4,7 @@ fork from PHP Telegram Bot  https://github.com/php-telegram-bot/example-bot/blob
 
 [PHP Telegram Bot Example](#telegram-bot)
 
-sdddddd
-sd
-#sd
-sdff
-
-
-fsdf
+This bot is for studing purposes. Be welcome to work with it.
 
 
 # <a name="telegram-bot"> </a> PHP Telegram Bot Example 
