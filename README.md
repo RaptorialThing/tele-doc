@@ -1,6 +1,8 @@
 
 
-fork from PHP Telegram Bot [Example][link] https://github.com/php-telegram-bot/example-bot/blob/master/README.md
+fork from PHP Telegram Bot  https://github.com/php-telegram-bot/example-bot/blob/master/README.md
+
+[Example](#link)
 
 sdddddd
 sd
@@ -11,7 +13,9 @@ sdff
 fsdf
 
 
-[link]# PHP Telegram Bot Example
+(#link)
+
+# PHP Telegram Bot Example
 An A-Z example of Telegram bot using the [PHP Telegram Bot][1] library.
 
 This repository aims to demonstrate the usage of all the features offered by the PHP Telegram Bot library and as such contains all example commands.
